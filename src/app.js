@@ -1,4 +1,4 @@
-const blessed = require("blessed")
+const blessed = require("@lilevil/blessed")
 const Console = new (require("node:console").Console)({stdout:process.stdout, stderr:process.stderr})
 
 class CLI extends require("node:events"){

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ansi-code": "^1.0.2",
-    "blessed": "file:../blessed",
-    "lunae": "file:../lunae"
+    "@lilevil/blessed": "^0.1.81",
+    "ansi-code": "^1.0.2"
   },
   "name": "@lilevil/cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a cli extention for lunae",
   "main": "src/app.js",
   "scripts": {
@@ -13,7 +12,6 @@
   },
   "author": "lilevil",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lil-evil/cli.git"
