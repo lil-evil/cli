@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ansi-code": "^1.0.2",
+    "blessed": "file:../blessed",
+    "lunae": "file:../lunae"
+  },
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "a cli extention for lunae",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lilevil",
+  "license": "ISC"
+}
