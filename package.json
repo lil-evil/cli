@@ -4,7 +4,7 @@
     "blessed": "file:../blessed",
     "lunae": "file:../lunae"
   },
-  "name": "cli",
+  "name": "@lilevil/cli",
   "version": "1.0.0",
   "description": "a cli extention for lunae",
   "main": "src/app.js",
@@ -12,5 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lilevil",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lil-evil/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lil-evil/cli/issues"
+  },
+  "homepage": "https://github.com/lil-evil/cli#readme"
 }
